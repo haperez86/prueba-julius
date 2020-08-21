@@ -1,0 +1,15 @@
+name: julius
+type: theme
+description: julius Theme
+version: VERSION
+base theme: stable
+core: 8.x
+
+libraries:
+  - julius/global-styling
+  - julius/global-scripts
+
+regions:
+  header: 'Header'
+  content: 'Content'
+  footer: 'Footer' 

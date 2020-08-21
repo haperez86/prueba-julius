@@ -1,0 +1,13 @@
+global-styling:
+  css:
+    theme:
+      css/estilo.css: {}
+      css/bs/bootstrap.min.css: {}  
+
+global-scripts:
+  js:
+    js/script.js: {}
+    js/bs/bootstrap.bundle.min.js: {}
+    js/bs/bootstrap.min.js: {}
+  dependencies:
+    - core/jquery       
