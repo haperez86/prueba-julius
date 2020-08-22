@@ -14,4 +14,5 @@ gulp.task('watch', done => {
 				proxy:'http://pruebajulius.dd:8083'
 		});
 	});
+	
 });
